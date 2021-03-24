@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/new/tuli">
+        <file>IPFtuli.bmp</file>
+    </qresource>
+</RCC>
